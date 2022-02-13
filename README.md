@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/Chamodya-official">
+    <a href="https://github.com/Kapish3
         <img
             src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...+Thank+You+For+Visiting+us...."
             alt="Typing SVG"
@@ -49,7 +49,7 @@
 
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chamodya-official/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kapish3/Queen-Alexa)
 
 
 ## 👨‍💻 Sponser & Supporter 👨‍💻
